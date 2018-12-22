@@ -1,3 +1,5 @@
+Implement the function `assignVehicles` in `index.js`. Test your solution by running the included tests.
+
 You are given an array of `vehicles` and an array of `drivers` in a household.
  For car insurance, we need to assign each driver a `principal vehicle`. This information
  is sometimes missing. We need to come up with an algorithm to do principal vehicle
