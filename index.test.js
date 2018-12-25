@@ -256,7 +256,7 @@ describe('Principal vehicle assignment', () => {
     }];
 
     expect(assignVehicles(vehicles, drivers)).toEqual({
-      vehicles: { '1': '103', '2': '101', '2': '102'},
+      vehicles: { '1': '103', '2': '101' },
       drivers: { '101': '2', '102': '2', '103': '1' },
     });
   });
